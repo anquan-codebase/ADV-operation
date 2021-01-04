@@ -62,22 +62,22 @@
           "hide": false,
           "refCount": 0,
           "refId": "A",
-          "target": "collectd.advtcloud-vm-4.docker-django.memory_usage.total"
+          "target": "collectd.demoADV1.docker-django.memory_usage.total"
         },
         {
           "refCount": 0,
           "refId": "B",
-          "target": "collectd.advtcloud-vm-4.docker-load_balancer.memory_usage.total"
+          "target": "collectd.demoADV1.docker-load_balancer.memory_usage.total"
         },
         {
           "refCount": 0,
           "refId": "C",
-          "target": "collectd.advtcloud-vm-4.docker-postgres.memory_usage.total"
+          "target": "collectd.demoADV1.docker-postgres.memory_usage.total"
         },
         {
           "refCount": 0,
           "refId": "D",
-          "target": "collectd.advtcloud-vm-4.docker-web_services.memory_usage.total"
+          "target": "collectd.demoADV1.docker-web_services.memory_usage.total"
         }
       ],
       "thresholds": [],
@@ -163,7 +163,7 @@
       "targets": [
         {
           "refId": "A",
-          "target": "collectd.advtcloud-vm-4.df-root.percent_bytes-free"
+          "target": "collectd.demoADV1.df-root.percent_bytes-free"
         }
       ],
       "thresholds": [],
@@ -250,7 +250,7 @@
         {
           "refCount": 0,
           "refId": "A",
-          "target": "collectd.advtcloud-vm-4.memory.memory-free"
+          "target": "collectd.demoADV1.memory.memory-free"
         }
       ],
       "thresholds": [],
@@ -337,17 +337,17 @@
         {
           "refCount": 0,
           "refId": "A",
-          "target": "collectd.advtcloud-vm-4.processes-advhsm.ps_count.processes"
+          "target": "collectd.demoADV1.processes-advhsm.ps_count.processes"
         },
         {
           "refCount": 0,
           "refId": "B",
-          "target": "collectd.advtcloud-vm-4.processes-ra_slave.ps_count.processes"
+          "target": "collectd.demoADV1.processes-ra_slave.ps_count.processes"
         },
         {
           "refCount": 0,
           "refId": "C",
-          "target": "collectd.advtcloud-vm-4.processes-rpyc.ps_count.processes"
+          "target": "collectd.demoADV1.processes-rpyc.ps_count.processes"
         }
       ],
       "thresholds": [],
@@ -435,22 +435,22 @@
         {
           "refCount": 0,
           "refId": "A",
-          "target": "collectd.advtcloud-vm-4.docker-django.cpu_percent"
+          "target": "collectd.demoADV1.docker-django.cpu_percent"
         },
         {
           "refCount": 0,
           "refId": "B",
-          "target": "collectd.advtcloud-vm-4.docker-load_balancer.cpu_percent"
+          "target": "collectd.demoADV1.docker-load_balancer.cpu_percent"
         },
         {
           "refCount": 0,
           "refId": "C",
-          "target": "collectd.advtcloud-vm-4.docker-postgres.cpu_percent"
+          "target": "collectd.demoADV1.docker-postgres.cpu_percent"
         },
         {
           "refCount": 0,
           "refId": "D",
-          "target": "collectd.advtcloud-vm-4.docker-web_services.cpu_percent"
+          "target": "collectd.demoADV1.docker-web_services.cpu_percent"
         }
       ],
       "thresholds": [],
@@ -538,12 +538,12 @@
         {
           "refCount": 0,
           "refId": "A",
-          "target": "collectd.advtcloud-vm-4.tcpconns-443-local.*"
+          "target": "collectd.demoADV1.tcpconns-443-local.*"
         },
         {
           "refCount": 0,
           "refId": "B",
-          "target": "collectd.advtcloud-vm-4.tcpconns-443-local.tcp_connections-ESTABLISHED"
+          "target": "collectd.demoADV1.tcpconns-443-local.tcp_connections-ESTABLISHED"
         }
       ],
       "thresholds": [],
@@ -625,7 +625,7 @@
     ]
   },
   "timezone": "",
-  "title": "advtcloud-vm-4",
-  "uid": "M5aJgqz226",
+  "title": "demoADV1",
+  "uid": "demoADV1",
   "version": 17
 }
